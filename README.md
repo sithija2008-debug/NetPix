@@ -1,2 +1,2 @@
 # NetPix
-Join netpix
+Join netpix webmobile
